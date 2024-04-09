@@ -39,3 +39,5 @@ const createClient = (client) => {
 //eventos
 document.getElementById("cadastrarCliente").addEventListener("click", openModal);
 document.getElementById("modalClose").addEventListener("click", closeModal);
+
+//testando um commit
